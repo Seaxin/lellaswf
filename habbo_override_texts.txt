@@ -2693,3 +2693,7 @@ badge_name_ALERTALIEN=Alerta Alien!
 badge_desc_ALERTALIEN=Alertei a comunidade sobre a invasão alien!
 badge_name_NAVE4=Nave Espacial
 badge_desc_NAVE4=Construí uma nave espacial para me infiltrar entre os aliens! Agosto/2020.
+badge_name_MSAGIT=Sagitário
+badge_desc_MSAGIT=Não importa aonde eu vou, eu sou SEMPRE a alegria do lugar! 22 de Novembro - 21 de Dezembro. Astro Regente: Júpiter
+badge_name_JJASON1=Fuja do Jason #1
+badge_desc_JJASON1=Se o Jason fala, eu corro. Se o Jason corre, eu fujo. Se o Jason mata, então eu já não estou mais vivo.
